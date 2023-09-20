@@ -1,6 +1,6 @@
 # Banner Windows
 
-banner を Visual Studio 2022でコンパイルできるように書き換え<p>
+LinuxのbannerコマンドをVisual Studio 2022でコンパイルできるように書き換え<p>
 
 Bannerオリジナルコード<br>
  https://github.com/pronovic/banner
