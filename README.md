@@ -1,6 +1,4 @@
-# bannerWindows
-
-Banner Windows<br>
+# Banner Windows
 
 banner を Visual Studio 2022でコンパイルできるように書き換え<p>
 
